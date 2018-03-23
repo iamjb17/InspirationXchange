@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Inspiration Xchange</string>
+    <string name="empty">Empty</string>
+    <string name="no_author">No Author</string>
+    <string name="empty_body">Empty Body</string>
+    <string name="empty_recyclerview">This category is empty. Please start it off right
+        by adding your very own Inspirational story!w</string>
+    <string name="loading">Loading...</string>
+    <string name="no_inspirations">You have not yet added any Inspirational Stories. This
+        community would love to hear about the stories that have happened in your life.</string>
+    <string name="app_tag">InspirationExchange</string>
+</resources>
