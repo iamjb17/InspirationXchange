@@ -138,7 +138,7 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    private void nextActivity(String className) {
+    public void nextActivity(String className) {
         Intent intent = null;
         try {
             intent = new Intent(this, Class.forName(className));

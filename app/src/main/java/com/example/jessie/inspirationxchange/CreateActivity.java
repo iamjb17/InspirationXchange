@@ -36,6 +36,8 @@ public class CreateActivity extends AppCompatActivity {
     @BindView(R.id.createBody)
     MultiAutoCompleteTextView mCreateBody;
 
+
+
     private String[] mCategory = {"Attitude", "Character", "Courage", "Happiness", "Love",
             "Motivational", "Opportunity", "Perseverance"};
 
